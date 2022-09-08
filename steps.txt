@@ -1,0 +1,15 @@
+Folder Structure
+-e-dashboard1
+  -FrontEnd
+  -BackEnd
+--------------------------------------------------------------------
+Open Mongo Atlas
+Database Name -  e-commerce
+ Table - users
+       - products
+---------------------------------------------------------------------
+Run BackEnd 
+-node/nodemon index.js
+---------------------------------------------------------------------
+Run FrontEnd
+-npm start
